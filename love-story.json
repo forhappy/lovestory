@@ -1,0 +1,36 @@
+{
+    "timeline": {
+        "headline": "那些年，我们的幸福往事",
+        "type": "default",
+        "text": "<p>遇到你是我前半生最幸运的事<p>",
+        "startDate": "2014,1,29",
+        "asset": {
+            "media": "",
+            "credit": "copyright by forhappy",
+            "caption": ""
+        },
+        "date": [
+            {
+                "startDate": "1989,1,1",
+                "headline": "一岁，还在摇篮里",
+                "text": "<p>哎哟，胖成了一个圈圈啊</p>",
+                "asset": {
+                    "media": "",
+                    "credit": "copyright by forhappy",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2008,8,16",
+                "endDate": "2008,10,14",
+                "headline": "与亲爱的小伙伴一起",
+                "text": "<p>每个人都会有几个至亲的小伙伴，看，右边是我的小伙伴，胖不胖？</p>",
+                "asset": {
+                    "media": "",
+                    "credit": "copyright by forhappy",
+                    "caption": ""
+                }
+            }
+        ]
+    }
+}
