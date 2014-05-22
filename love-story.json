@@ -13,7 +13,7 @@
             {
                 "startDate": "2014,3,8",
                 "headline": "我们第一次去看电影",
-                "text": "<p>2014年3月8日，一个非常巧合的日子，那天是我们第一次一起去电影院看电影</p>",
+                "text": "<p>2014年3月8日，一个非常巧合的日子，那天是我们第一次一起去电影院看电影，在新华国际影城大钟寺店，记得我们坐地铁去的，路上多看对方几眼都觉得害羞。</p>",
                 "asset": {
                     "media": "http://lovestory.qiniudn.com/image/The%20Hobbit-The%20Desolation%20of%20Smaug.jpg",
                     "credit": "copyright by forhappy",
@@ -28,6 +28,26 @@
                     "media": "http://lovestory.qiniudn.com/image/Need%20for%20Speed.jpg",
                     "credit": "copyright by forhappy",
                     "caption": "Need for Speed"
+                }
+            },
+            {
+                "startDate": "2014,4,27",
+                "headline": "我们第三次去看电影",
+                "text": "<p>4月27日，周日，晴，我们第三次去看电影，这一天也是我们确定恋爱关系一个月的日子，电影选在了下午四点，在五道口工人俱乐部影城，《同桌的你》也是我们看的第一部青春爱情电影。</p>",
+                "asset": {
+                    "media": "http://lovestory.qiniudn.com/image/My%20Old%20Classmate.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "My Old Classmate"
+                }
+            },
+            {
+                "startDate": "2014,5,4",
+                "headline": "我们第四次去看电影",
+                "text": "<p>5月5日，也是周日，晴，我们第四次去看电影，这天我刚好毕业预答辩，我们说好了每个月都去电影院看一次电影的，这次是五月份的电影，还是在我们第一次去看电影的地方，在新华国际影城大钟寺店。</p>",
+                "asset": {
+                    "media": "http://lovestory.qiniudn.com/image/The%20Amazing%20Spider-Man%202.jpg",
+                    "credit": "copyright by forhappy",
+                    "caption": "My Old Classmate"
                 }
             }
         ]
